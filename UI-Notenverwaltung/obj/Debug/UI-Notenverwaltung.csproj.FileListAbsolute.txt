@@ -1,0 +1,11 @@
+C:\Users\MooVoo\source\repos\UI-Notenverwaltung\UI-Notenverwaltung\bin\Debug\UI-Notenverwaltung.exe.config
+C:\Users\MooVoo\source\repos\UI-Notenverwaltung\UI-Notenverwaltung\bin\Debug\UI-Notenverwaltung.exe
+C:\Users\MooVoo\source\repos\UI-Notenverwaltung\UI-Notenverwaltung\bin\Debug\UI-Notenverwaltung.pdb
+C:\Users\MooVoo\source\repos\UI-Notenverwaltung\UI-Notenverwaltung\obj\Debug\UI-Notenverwaltung.csproj.AssemblyReference.cache
+C:\Users\MooVoo\source\repos\UI-Notenverwaltung\UI-Notenverwaltung\obj\Debug\UI_Notenverwaltung.Form1.resources
+C:\Users\MooVoo\source\repos\UI-Notenverwaltung\UI-Notenverwaltung\obj\Debug\UI_Notenverwaltung.Properties.Resources.resources
+C:\Users\MooVoo\source\repos\UI-Notenverwaltung\UI-Notenverwaltung\obj\Debug\UI-Notenverwaltung.csproj.GenerateResource.cache
+C:\Users\MooVoo\source\repos\UI-Notenverwaltung\UI-Notenverwaltung\obj\Debug\UI-Notenverwaltung.csproj.CoreCompileInputs.cache
+C:\Users\MooVoo\source\repos\UI-Notenverwaltung\UI-Notenverwaltung\obj\Debug\UI-Notenverwaltung.exe
+C:\Users\MooVoo\source\repos\UI-Notenverwaltung\UI-Notenverwaltung\obj\Debug\UI-Notenverwaltung.pdb
+C:\Users\MooVoo\source\repos\UI-Notenverwaltung\UI-Notenverwaltung\obj\Debug\UI_Notenverwaltung.Form2.resources
